@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: 30px 120px 30px 120px;
+    color: white; 
+    overflow-x: hidden;
+}
+.switch {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
